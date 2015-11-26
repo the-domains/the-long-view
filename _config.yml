@@ -1,0 +1,14 @@
+layout_spectrum: 0.8539324
+typography_spectrum: 0.989361
+color:
+  saturation: 0.5797053
+  lightness: 0.07461443
+  brandStrength: 0.2992572
+  rhythmicContrast: 0.3346959
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: The Long View
