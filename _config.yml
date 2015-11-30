@@ -1,14 +1,28 @@
-layout_spectrum: 0.8539324
-typography_spectrum: 0.989361
-color:
-  saturation: 0.5797053
-  lightness: 0.07461443
-  brandStrength: 0.2992572
-  rhythmicContrast: 0.3346959
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
 name: The Long View
+favicon: null
+layout_spectrum: 0.25018
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f3f3f3'
+    - '#8bc5e7'
+    - '#6e5a92'
+    - '#968fac'
+    - '#4087be'
+  brandStrength: 0.2992572
+  lightness: 0.07461443
+  saturation: 0.5797053
+  rhythmicContrast: 0.3346959
+purpose: []
