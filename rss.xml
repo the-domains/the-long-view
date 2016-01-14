@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Long View]]></title>
         <description><![CDATA[The Long View]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-long-view/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 17:09:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 21:16:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-long-view/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“Can I be a missionary?” </p>]]></description>
+            <link>https://thegrid.ai/the-long-view/14fa40ae-588e-41ff-8119-f053b7ab3b3f/index.html</link>
+            <guid isPermaLink="false">14fa40ae-588e-41ff-8119-f053b7ab3b3f</guid>
+            <pubDate>Thu, 14 Jan 2016 21:15:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Missional Accounting]]></title>
             <description><![CDATA[<article><h1>Missional Accounting</h1><p>Every dollar spent by a church or other organization typically pays for some form of time spent in support of a program.</p></article>]]></description>
-            <link>undefinedmissional-accounting/index.html</link>
+            <link>https://thegrid.ai/the-long-view/missional-accounting/index.html</link>
             <guid isPermaLink="false">8e8e6847-e375-4031-88ce-a471233c2032</guid>
             <pubDate>Mon, 30 Nov 2015 17:09:18 GMT</pubDate>
         </item>
